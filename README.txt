@@ -7,7 +7,7 @@ Parts can be tracked as In-House (with a machine ID) or Outsourced (with a compa
 Author: Ashley Barone
 Contact Info: abaro20@wgu.edu
 Application Version: 1.0.0.0
-Date: November 29, 2021]
+Date: November 29, 2021
 
 ::Version Information::
 IntelliJ IDEA 2021.3 (Community Edition)
